@@ -1,0 +1,2 @@
+competitors,games played,QLearning wins,QLearning win_rate,Default wins,Default win_rate,draws,draw_rate,avg time/game
+QLearning vs Default,1000,919,(91.9%),0,(0.0%),81,(8.1%),0.0001s

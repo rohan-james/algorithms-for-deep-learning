@@ -1,0 +1,2 @@
+competitors,games played,Minimax AB wins,Minimax AB win_rate,Default wins,Default win_rate,draws,draw_rate,avg time/game,avg nodes (Minimax AB),avg nodes (Default)
+Minimax AB vs Default,1000,1000,(100.0%),0,(0.0%),0,(0.0%),1.9410s,"39,641",N/A

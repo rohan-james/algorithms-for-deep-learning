@@ -1,0 +1,2 @@
+competitors,games played,DQN wins,DQN win_rate,Default wins,Default win_rate,draws,draw_rate,avg time/game
+DQN vs Default,1000,927,(92.7%),0,(0.0%),73,(7.3%),0.0008s
